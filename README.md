@@ -1,3 +1,3 @@
 # didactic-invention
-hi there 
+hi there,
 I would like some help on this shit
